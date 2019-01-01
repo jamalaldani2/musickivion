@@ -20,7 +20,7 @@ const gif = require("gif-search");
 
 const client = new Discord.Client({disableEveryone: true});
 
-const prefix = "Vplay";//n3k4a جميع الحقوق معفوظه لي //n3k4a جميع الحقوق معفوظه لي //n3k4a جميع الحقوق معفوظه لي //n3k4a جميع الحقوق معفوظه لي 
+const prefix = "V";//n3k4a جميع الحقوق معفوظه لي //n3k4a جميع الحقوق معفوظه لي //n3k4a جميع الحقوق معفوظه لي //n3k4a جميع الحقوق معفوظه لي 
 /////////////////////////
 ////////////////////////
 
